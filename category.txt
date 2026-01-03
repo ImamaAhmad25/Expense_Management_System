@@ -1,2 +1,0 @@
-food 40
-groceries 25.5
